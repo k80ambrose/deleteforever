@@ -3,7 +3,6 @@
   <center>
     <h1>what's up bitches</h1>
     
-    <video src="keyboard-cat.mp4"></video>
     
     <p>k80</p>
 
