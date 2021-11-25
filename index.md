@@ -8,7 +8,7 @@
     
 <picture>
   <img class="fit-picture"
-     src="/miles.jpg"
+     src="/miles.jpeg"
      alt="Grapefruit slice atop a pile of other slices">
   
 </picture>
