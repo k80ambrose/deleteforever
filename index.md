@@ -6,6 +6,14 @@
     
     <p>k80</p>
 
+    
+<picture>
+  <img class="fit-picture"
+     src="/photo/portraits/heybestie.jpg"
+     alt="Grapefruit slice atop a pile of other slices">
+  
+</picture>
+    
     <button>something to look at</button>
     
     <button>something to read</button>
