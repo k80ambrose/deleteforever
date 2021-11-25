@@ -9,7 +9,7 @@
     
 <picture>
   <img class="fit-picture"
-     src="/photo/portraits/heybestie.jpg"
+     src="/heybestie.jpg"
      alt="Grapefruit slice atop a pile of other slices">
   
 </picture>
