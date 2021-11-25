@@ -1,16 +1,20 @@
 <HTML>
-<body bgcolor="grey" text="pink">
+<body>
+  bgcolor="pink" text="pink">
   <center>
     <h1>welcome to my website</h1>
-   
-    <p>k80</p>
-
     
 <picture>
   <img class="fit-picture"
      src="/miles.jpeg"
-     alt="Grapefruit slice atop a pile of other slices">
+     alt="idk">
+</picture>
   
+    
+ <picture>
+  <img class="fit-picture"
+     src="/heybestie.jpeg"
+     alt="idk">
 </picture>
     
     <button>something to look at</button>
@@ -18,4 +22,4 @@
     
   </center>
 </body>
-<HTML/>
+</HTML>
