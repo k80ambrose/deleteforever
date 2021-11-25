@@ -13,7 +13,7 @@
     
  <picture>
   <img class="fit-picture"
-     src="/heybestie.jpeg"
+     src="/heybestie.jpg"
      alt="idk">
 </picture>
     
